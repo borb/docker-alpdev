@@ -25,6 +25,7 @@ RUN			["apk", "add", \
 				"less", \
 				"libusb-dev", \
 				"libusb-compat-dev", \
+				"linux-headers", \
 				"make", \
 				"man", \
 				"man-pages", \
